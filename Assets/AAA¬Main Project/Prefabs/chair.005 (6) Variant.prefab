@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: b658c30a296d2e74eb493e835498692f, type: 3}
       propertyPath: m_Name
-      value: chair.005 (6)
+      value: chair.005 (6) Variant
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b658c30a296d2e74eb493e835498692f, type: 3}
       propertyPath: m_RootOrder

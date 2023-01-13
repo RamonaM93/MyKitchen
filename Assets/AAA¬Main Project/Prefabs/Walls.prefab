@@ -336,7 +336,7 @@ GameObject:
   m_Component:
   - component: {fileID: 371881297489644511}
   m_Layer: 0
-  m_Name: Planes
+  m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
